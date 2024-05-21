@@ -1,9 +1,35 @@
 # Winter_Quarter_Baseball_Sports_Analytics_Project_2024
 
-Upload Data Visualizations and R Coding onto Github to display findings and Linkedin as well.
+Upload Data Visualizations and R Coding onto Github to display our findings.
 
 This project will analyze MLB player draft data from 2018 to 2020 as tasked by client. The goal is to predict career WAR value by draft characteristics such as round, draft pick number, signing bonus, and by career minor league data. 
+
+We initially analyzed pitcher WAR values by where they were drafted from 2018 to 2020 and their WAR value. With data mining techniques, we determined what factors were significant and which model predicted the highest classifircation accuracy rate.
 
 # Terminologies:
 - WAR: Wins Above Replacement
 - Signing Bonus: Players' First signing bonus by team they are drafted from
+
+# Predictor Variables (Source baseballr)
+
+
+# Predictor Variables (Personal)
+
+# Process
+Our project utilized the baseballr library data and conducted data cleansing to organize the data and then apply these methods below. I utilized these methods below to display which accuracy rates were the highest and which predictors we found to be significant.
+
+- Decision Tree (No Pruning) 
+- Decision Tree (Cross Validation) 
+- Random Forest (All Predictors)
+- Random Forest (16 Predictors) 
+- Random Forest (7 Predictors) 
+
+We utilized classification trees as our predictors included categorical variables such as prospect height, draftet team, and state names in the database. After finding the accuracy rates, we were able to rank which model performed the best and its score as well.
+
+Model Accuracy:
+- Random Forest (7 Predictors) 86.6% / Random Forest (All Predictors) 86.6%
+- Random Forest (16 Predictors) 86.35%
+- Decision Tree (Cross Validation) 80.89%
+- Decision Tree (No Pruning) 80.65%
+
+We notice that Random Forests with all or 7 predictor variables performed the best compared to other models. All the models performed highly but Random Forest model performed better than Decision Tree models. 
