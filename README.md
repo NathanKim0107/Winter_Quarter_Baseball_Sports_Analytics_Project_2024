@@ -11,9 +11,34 @@ We initially analyzed pitcher WAR values by where they were drafted from 2018 to
 - Signing Bonus: Players' First signing bonus by team they are drafted from
 
 # Predictor Variables (Source baseballr)
+Baseball Draft Information
+- pick_round
+- pick_number
+- person_draft_year
+- person_pitch_hand_description
+- team_name
 
+Player Demographics
+- home_city
+- home_state
+- home_country
+- year
+- month
+- day
+- person_birth_city
+- person_birth_state_province (Since players may come from outside of US)
+- person_birth_country
+- person_height
+- person_weight
 
-# Predictor Variables (Personal)
+School Information
+- school_name
+- school_state
+- school_country
+
+# Predictor/Response Variables (Personal)
+- Q_status: quartile of signing bonus compared to rest of respective draft class
+- war_status: define by positive, negative, or no WAR value (indicating that player has yet to debut)
 
 # Process
 Our project utilized the baseballr library data and conducted data cleansing to organize the data and then apply these methods below. I utilized these methods below to display which accuracy rates were the highest and which predictors we found to be significant.
