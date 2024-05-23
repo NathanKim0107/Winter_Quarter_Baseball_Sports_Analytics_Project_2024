@@ -52,8 +52,8 @@ Our project utilized the baseballr library data and conducted data cleansing to 
 We utilized classification trees as our predictors included categorical variables such as prospect height, draftet team, and state names in the database. After finding the accuracy rates, we were able to rank which model performed the best and its score as well.
 
 Model Accuracy:
-- Random Forest (7 Predictors) 86.6% / Random Forest (All Predictors) 86.6%
-- Random Forest (16 Predictors) 86.35%
+- Random Forest (6 Predictors) 86.6% / Random Forest (All Predictors) 86.6%
+- Random Forest (15 Predictors) 86.35%
 - Decision Tree (Cross Validation) 80.89%
 - Decision Tree (No Pruning) 80.65%
 
