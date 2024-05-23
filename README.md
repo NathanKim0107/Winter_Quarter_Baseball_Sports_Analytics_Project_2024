@@ -46,8 +46,8 @@ Our project utilized the baseballr library data and conducted data cleansing to 
 - Decision Tree (No Pruning) 
 - Decision Tree (Cross Validation) 
 - Random Forest (All Predictors)
-- Random Forest (16 Predictors) 
-- Random Forest (7 Predictors) 
+- Random Forest (15 Predictors) 
+- Random Forest (6 Predictors) 
 
 We utilized classification trees as our predictors included categorical variables such as prospect height, draftet team, and state names in the database. After finding the accuracy rates, we were able to rank which model performed the best and its score as well.
 
