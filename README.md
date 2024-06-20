@@ -62,3 +62,4 @@ We notice that Random Forests with all or 6 predictor variables performed the be
 # Significant Predictors
 ![var_implot_final_model](https://github.com/NathanKim0107/Winter_Quarter_Baseball_Sports_Analytics_Project_2024/assets/128879072/06cac7b5-c90a-45e6-b662-ef6229621d66)
 
+In this plot, we notice that some of the most important predictors were the pick_number, team_name, person_birth_city, person_Weight, home_city, and school_name. Although we are aware of what the significant factors are, it is important to display why these variables are important in determining a players' chance of reaching the MLB stage and ending their career with a positive WAR value.
