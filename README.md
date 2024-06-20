@@ -57,4 +57,8 @@ Model Accuracy:
 - Decision Tree (Cross Validation) 80.89%
 - Decision Tree (No Pruning) 80.65%
 
-We notice that Random Forests with all or 7 predictor variables performed the best compared to other models. All the models performed highly but Random Forest model performed better than Decision Tree models. 
+We notice that Random Forests with all or 6 predictor variables performed the best compared to other models. All the models performed highly but Random Forest model performed better than Decision Tree models. 
+
+# Significant Predictors
+![var_implot_final_model](https://github.com/NathanKim0107/Winter_Quarter_Baseball_Sports_Analytics_Project_2024/assets/128879072/06cac7b5-c90a-45e6-b662-ef6229621d66)
+
