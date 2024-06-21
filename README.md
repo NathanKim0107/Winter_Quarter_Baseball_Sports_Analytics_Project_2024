@@ -79,5 +79,5 @@ From this map, we notice that a majority of the prospects were found in Californ
 
 
 # School Bar Chart
-![Birth City Bar Chart](https://github.com/NathanKim0107/Winter_Quarter_Baseball_Sports_Analytics_Project_2024/assets/128879072/f1acf706-e7fe-498d-b20e-bd02e325d494)
-The majority of the schools on the bar chart were from California, Arkansas, and Alabama. This bar chart displays schools who have been successful at sending their athletes to the pros. On this chart, there was only one high school recorded which displays how many major league prospects emerged from the program. 
+![Birth City Bar Chart](https://github.com/NathanKim0107/Winter_Quarter_Baseball_Sports_Analytics_Project_2024/assets/128879072/60ed65e5-9c69-4d9d-9783-e1b3710a71a0)
+The majority of the schools on the bar chart were from the south like North Carolina and Texas. This bar chart displays schools who have been successful at sending their athletes to the pros. On this chart, we notice that there were only colleges listed with colleges such as Oklahoma, Mississippi State, and Louisville having the highest count of prospects being able to debut. 
