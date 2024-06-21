@@ -77,4 +77,7 @@ In this visualization, we observe which teams were successful in bringing player
 From this map, we notice that a majority of the prospects were found in California and Texas. There were few prospects found in the Midwest region but there were many prospects found in the Southeast and Southwest regions who were able to debut. From this visualization, we can determine that the birth city of a pitcher can impact a player's chance of reaching the pro stage as the resources available to players may differ and the type of climates players play under impact their performance. [Source](https://www.npr.org/2023/04/12/1169266941/global-warming-could-be-juicing-baseball-home-runs-study-finds#:~:text=Hotter%20temperatures%20may%20take%20a,of%20an%20advantage%20over%20pitchers.%22). However, one topic to further analyze is whether players stay in their birth cities and state or move across different cities or states. Athletes may move to different cities or states for educational or athletic resources. 
 
 
+
+# School Bar Chart
 ![Birth City Bar Chart](https://github.com/NathanKim0107/Winter_Quarter_Baseball_Sports_Analytics_Project_2024/assets/128879072/f1acf706-e7fe-498d-b20e-bd02e325d494)
+The majority of the schools on the bar chart were from California, Arkansas, and Alabama. This bar chart displays schools who have been successful at sending their athletes to the pros. On this chart, there was only one high school recorded which displays how many major league prospects emerged from the program. 
