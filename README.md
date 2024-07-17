@@ -85,4 +85,5 @@ When observing home city trends, there were similar trends as there were many pr
 The majority of the schools on the bar chart were from the south like North Carolina and Texas. This bar chart displays schools who have been successful at sending their athletes to the pros. On this chart, we notice that there were only colleges listed with colleges such as Oklahoma, Mississippi State, and Louisville having the highest count of prospects being able to debut. 
 
 # Prospect Weight
-![Prospect Wegith Box and Whiskers Plot](C:\Users\natha\Dropbox\My PC (DESKTOP-HNFK7DB)\Downloads\Sheet 8.png)
+![Prospect Wegith Box and Whiskers Plot](https://github.com/user-attachments/assets/77c2f8aa-847d-4b8e-9d6a-d6920414daf2)
+
