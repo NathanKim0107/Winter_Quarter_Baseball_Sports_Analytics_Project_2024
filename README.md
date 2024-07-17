@@ -80,7 +80,9 @@ From this map, we notice that a majority of the prospects were found in Californ
 When observing home city trends, there were similar trends as there were many prospects whose homne cities were found in California, Texas, and Florida. While there does not appear to be any differences between either charts, we can infer that birth and home cities display states where prospects were able to reach the major league stage. It appears that people do not move far from their birth cities but each predictor is significant towards predicting how well players fare at the professional level as the city prospects live in can determine the types of resources that are available to players.
 
 
-
 # School Bar Chart
 ![Birth City Bar Chart](https://github.com/NathanKim0107/Winter_Quarter_Baseball_Sports_Analytics_Project_2024/assets/128879072/60ed65e5-9c69-4d9d-9783-e1b3710a71a0)
 The majority of the schools on the bar chart were from the south like North Carolina and Texas. This bar chart displays schools who have been successful at sending their athletes to the pros. On this chart, we notice that there were only colleges listed with colleges such as Oklahoma, Mississippi State, and Louisville having the highest count of prospects being able to debut. 
+
+# Prospect Weight
+![Prospect Wegith Box and Whiskers Plot](C:\Users\natha\Dropbox\My PC (DESKTOP-HNFK7DB)\Downloads\Sheet 8.png)
