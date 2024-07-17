@@ -86,4 +86,4 @@ The majority of the schools on the bar chart were from the south like North Caro
 
 # Prospect Weight
 ![Prospect Wegith Box and Whiskers Plot](https://github.com/user-attachments/assets/77c2f8aa-847d-4b8e-9d6a-d6920414daf2)
-
+When analyzing the weight distributions, the median weight was similar between players with no WAR value and pitchers with positive career WAR. However, distribution patterns differed as pitchers with negative and positive WAR had distributions that had more spread than pitchers with no career WAR. 
